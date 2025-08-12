@@ -1,4 +1,4 @@
-import my_programs as mp
+import gopal_my_programs as mp
 
 function_map = {
     1: mp.gcd_program,
